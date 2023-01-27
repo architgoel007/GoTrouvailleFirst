@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "GoTrouvailleFirst.BL": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:64170;http://localhost:64173"
+    }
+  }
+}
